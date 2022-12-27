@@ -19,7 +19,7 @@
     "support": {
         "issues": "https://github.com/extcode/tcpdf/issues"
     },
-    "version": "4.0.0",
+    "version": "4.0.1",
     "autoload": {
         "psr-4": {
             "Extcode\\TCPDF\\": "Classes"
@@ -56,7 +56,7 @@
         ]
     },
     "require": {
-        "php": ">=7.2.0 <7.5",
+        "php": ">=7.2.0 <8.2",
         "typo3/cms-core": "^11.5"
     },
     "require-dev": {
